@@ -1,0 +1,346 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe abstract of the question of precedency, betweene England and Spain Occasioned by Sir Henry Nevil Knight, the Queen of Englands embassadour, and the embassadour of Spain at Callys, before commissioners appointed by the French King: who had moved a treaty of peace in the two and fortieth yeare of the reigne of the same Queen, by Robert Cotton Esquire, at the commandement of the Queens Majesty.</title>
+            <author>Cotton, Robert, Sir, 1571-1631.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80650</idno>
+            <idno type="STC">Wing C6482A</idno>
+            <idno type="STC">Thomason E128_2</idno>
+            <idno type="STC">ESTC R231682</idno>
+            <idno type="EEBO-CITATION">99899871</idno>
+            <idno type="PROQUEST">99899871</idno>
+            <idno type="VID">137194</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80650)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137194)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2463:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe abstract of the question of precedency, betweene England and Spain Occasioned by Sir Henry Nevil Knight, the Queen of Englands embassadour, and the embassadour of Spain at Callys, before commissioners appointed by the French King: who had moved a treaty of peace in the two and fortieth yeare of the reigne of the same Queen, by Robert Cotton Esquire, at the commandement of the Queens Majesty.</title>
+                  <author>Cotton, Robert, Sir, 1571-1631.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by L[uke]. N[orton]. and R[ichard]. C[otes]. for Thomas Slater, at the signe of the Swan in Duck lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Novemb. 24. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printers' names from Wing.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Neville, Henry, --  Sir, 1564?-1615 --  Early works to 1800.</term>
+               <term>France --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  Spain --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  France --  Early works to 1800.</term>
+               <term>Spain --  Foreign relations --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137194:1"/>
+            <p>A briefe ABSTRACT OF THE QVESTION OF PRECEDENCY, BETWEENE ENGLAND and SPAIN.</p>
+            <p>Occaſioned By Sir <hi>Henry Nevil</hi> Knight, the Queen of Englands Embaſſador, and the Embaſſa<g ref="char:EOLhyphen"/>dour of <hi>Spain</hi> at <hi>Callys,</hi> before Commiſſioners appointed by the French King: Who had moved a Treaty of Peace in the two and fortieth yeare of the reigne of the ſame Queen, by ROBERT COTTON Eſquire, at the commandement of the Queens Majeſty.</p>
+            <p>LONDON, Printed by <hi>L.N.</hi> and <hi>R.C.</hi> for <hi>Thomas Slater,</hi> at the ſigne of the Swan in Duck lane, Novemb. 24. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:137194:2"/>
+            <head>THE PRECEDENCY OF ENGLAND and SPAIN.</head>
+            <argument>
+               <p>
+                  <list>
+                     <item>
+                        <hi>Place;</hi>
+                        <list>
+                           <item>
+                              <hi>Antiquities,</hi>
+                              <list>
+                                 <item>
+                                    <hi>Kingdome,</hi>
+                                 </item>
+                                 <item>or a <hi>Chriſtian Kingdome of the throne Roya<gap reason="illegible" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap>.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>or <hi>Eminency;</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Or <hi>Perſon;</hi>
+                        <list>
+                           <item>
+                              <hi>Nobility of bloud,</hi>
+                           </item>
+                           <item>or <hi>Antiquities of government.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+            </argument>
+            <div type="part">
+               <head>precedency of <hi>England</hi> in reſpect of the antiquity of the Kingdome.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>O ſeek before the decay of the <hi>Roman</hi> Empire th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> antiquity of any kingdom, it were a meer vanity when as the kingdoms of Chriſtendome, now in being, had their riſing from the fall thereof; at which inſtant <hi>Vortigeras,</hi> a native of this Iſle, fir<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t eſtabliſhed here a free kingdom 450. years, from whence her Majeſty is in deſcent Lineally.</p>
+               <p>And it is plain, that as we were later than <hi>Spain</hi> reduced under the <hi>Roman</hi> yoke, ſo were we ſooner freed from it.</p>
+            </div>
+            <div type="part">
+               <head>Subſequence of <hi>Spain.</hi>
+               </head>
+               <p>
+                  <hi>Spain,</hi> ſince the diſſolution of the <hi>Roman</hi> Empire, articuled no King till of late.</p>
+               <p>For <hi>Attala<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>icus</hi> (from whom they would upon ſlender warrant ground their diſcent) was never ſtiled <hi>Rex Hiſpaniae,</hi> but <hi>Gotha<g ref="char:EOLhyphen"/>rum.</hi>
+                  <note place="margin">Rodoricus Sanctus pag. <hi>312.</hi>
+                  </note> And the kingdome of <hi>Caſtile,</hi> wherein the maine and faireſt antiquity of <hi>Spaine</hi> reſted, began not before the yeare of Chriſt 1017. whereas they were but Earles of <hi>Caſtile</hi> before.</p>
+               <p>So that the kingdom of the <hi>Engliſh</hi> begun (which was alwayes, as <hi>Beda</hi> obſerves, an <hi>Heptarchy</hi>) 460. years before <hi>Caſtile</hi> or <hi>Spain.
+<pb n="3" facs="tcp:137194:2"/> Precedency of</hi> England <hi>in reſpect of Antiquity of Chriſtian Religion.</hi>
+               </p>
+               <p>
+                  <hi>Joſeph</hi> of <hi>Aramathea</hi> planted Chriſtian Religion immediatly after the Paſſion of Chriſt in this Realme.</p>
+               <p>And <hi>Ariſtobulus,</hi> one of them mentioned by S. <hi>Paul, Rom.</hi> 16.<note place="margin">Baronius. Dorothorus Beda. Beda. Baro. &amp; Donaco Conſtanti<g ref="char:EOLhyphen"/>ni.</note> was <hi>Epiſcopus Britannorum,</hi> and ſo likewiſe was <hi>Simon Zelotus.</hi>
+               </p>
+               <p>The firſt Chriſtian King in <hi>Europe</hi> was <hi>Lucius Sirius.</hi>
+               </p>
+               <p>The firſt that ever advanced Papacy of <hi>Rome</hi> was the Emperour <hi>Conſtantius,</hi> born at <hi>York,</hi> of whom in the <hi>Roman</hi> Lawes neer his time is written, <hi>Qui Veneranda Chriſtianorum fide Romanorum immiſit Im<g ref="char:EOLhyphen"/>perium.</hi> And to him particularly more than to other Emperours are theſe Epithetary attributed, <hi>Divus divae memoriae, divinae memoriae, or<g ref="char:EOLhyphen"/>bis l<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>erator, quietus fundator, reipublicae inſtaurator, publicae libertatis a<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> magnu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, maximus invectus reſtitutor urbis Romae, atque orbis.</hi>
+               </p>
+               <p>And there have been more Kings and Princes of the bloud Royall Confeſſors and Martyrs in <hi>England,</hi> than in any Province in <hi>Europe:</hi> And from <hi>Ethelbert</hi> King of <hi>Kent</hi> (converted in <hi>anno</hi> 596.) untill this day Chriſtianity hath been without interruption continued.</p>
+            </div>
+            <div type="part">
+               <head>Subſequence of <hi>Spain.</hi>
+               </head>
+               <p>In the time of <hi>Claudius</hi> S. <hi>James</hi> preached in <hi>Spain;</hi> but gained only nine ſoules: So did he in <hi>Ireland,</hi> (as <hi>Vincentius</hi> ſaith) and they cannot count Chriſtian Religion to be then planted in <hi>Spain,</hi> which ſhortly after was firſt tainted with the hereſie of <hi>Priſilian,</hi> then with <hi>Gothiſh</hi> Arianiſm, and after defaced with Mooriſh Mahometiſm from 707. yeares after Chriſt, in continuance 770. years, until <hi>Ferdinando</hi> King of <hi>Aragon</hi> and <hi>Caſtile</hi> utterly expelled the <hi>Moores</hi> from thence.</p>
+            </div>
+            <div type="part">
+               <head>Precedency of <hi>England</hi> in reſpect of the more abſolute authority politicall.</head>
+               <p>The Queen of <hi>Englands</hi> power is abſolute in acknowledging no Su<g ref="char:EOLhyphen"/>periour, nor invaſſalage to Pope nor Emperor. For that ſubjection, which by King <hi>John</hi> was made to <hi>Innocentius</hi> the third, after in Par<g ref="char:EOLhyphen"/>liament, <hi>Per praeceptum Domini Papae ſeptimo Julii cum fidelitate ho<g ref="char:EOLhyphen"/>magii relaxatur omnino.</hi>
+               </p>
+               <p>Sir <hi>Thomas Moore</hi> in his <hi>Debellation</hi> ſaith, The Church of <hi>Rome</hi> can ſhew no ſuch deed of ſubjection, neither that the King could grant it of himſelfe. And <hi>Eugubinus</hi> in his Defence of <hi>Conſtantius Donat.</hi> nameth not <hi>England,</hi> where hee reciteth all the feodary Kingdoms to the Papacy.</p>
+               <pb n="4" facs="tcp:137194:3"/>
+               <p>
+                  <note place="margin">Ex legibus Canat.</note>The <hi>Peter</hi>-pence were not duties, but <hi>Eleemozynae Regis,</hi> neither the <hi>Roman Scot,</hi> but <hi>Regis largae benignitatis parem non habet Rex Angliae in regno ſuo multo fortius, nec ſuperiorem habere debet,</hi> ſaith <hi>Bracton.</hi>
+               </p>
+               <p>
+                  <hi>Ipſe non debet eſſe ſub homine, ſed ſub Deo, &amp; habet tantum ſuperiorem Judicem Deum.</hi>
+               </p>
+               <p>Likewiſe in appointing Magiſtrates, pardoning life, appeales granting priviledges, taking homage, and the like. And this <hi>Jura ma<g ref="char:EOLhyphen"/>jeſtatis</hi> not limited in <hi>ſenſu numerato, bello Judicando, pace ineundo.</hi>
+               </p>
+               <p>
+                  <hi>Eulentherius</hi> the Pope, 1400. yeares ago, in his Epiſtles to <hi>Lucius</hi> King of <hi>Brittaine,</hi> ſtileth him <hi>Vicarius Dei in regno ſuo.</hi>
+               </p>
+               <p>So is the King of <hi>England</hi> in <hi>Edgars</hi> Laws; and <hi>Baldus</hi> the Lawyer ſaith, <hi>Rex Angliae eſt Monarcha in Regno ſuo:</hi> and <hi>Malmesbury, poſt converſionem ad fidem, tot &amp; tantos obtinuit libertates quot Imperator Imperio.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Subſequence of <hi>Spaine.</hi>
+               </head>
+               <p>The King of <hi>Spaine</hi> hath no Kingdome, but is Feodary, as <hi>Caſtilia</hi> enthralled by Oath of ſubjection and Vaſſaledge from King <hi>Henry</hi> to <hi>Charles</hi> the fifth of <hi>France,</hi> 1369. <hi>ex foedore con<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>racto:</hi> And for the Netherlands there is due to the French King, or the Papacy; as <hi>Aragon</hi> to <hi>Innocentius</hi> the third by <hi>Peter,</hi> 1204. confirmed by <hi>Ferdinando</hi> and <hi>Alphonſus,</hi> 1445. and from <hi>James</hi> by the like Oath, 1453.</p>
+               <p>And to <hi>Sardinia</hi> and <hi>Corſica</hi> the Kings of <hi>Aragon</hi> from the Biſhops of <hi>Rome</hi> were under Oath of ſubjection inveſted <hi>ex formali fiducia.</hi>
+               </p>
+               <p>The Kingdome of <hi>Portugal</hi> in vaſſall<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge to the Pope under an Annuall tribute.</p>
+               <p>And the <hi>Canaries, Heſperides,</hi> and <hi>Gorgon</hi> Ilands ſubjected to the Sea of <hi>Rome</hi> under the chiefe Rent of foure hundred Florens by <hi>Lewis</hi> King of <hi>Spain,</hi> 1243. of both the <hi>Indies, Alexander</hi> did reſerve the regalities of <hi>Scicilia</hi> to the Church, as chiefe Lord.</p>
+               <p>And <hi>Grando</hi> and <hi>Navar</hi> were made Feodary to the Pope under <hi>Julius</hi> the ſecond.</p>
+               <p>
+                  <hi>Naples</hi> at every change ſendeth a Palphery, as an Heriot due to the Church of <hi>Rome;</hi> and of the Empire hee holdeth the Dukedome of <hi>Millain:</hi> So that it is queſtionable among Civilians, whether he be <hi>Princeps,</hi> which holdeth in <hi>foedo</hi> all, of others; his abſolute authori<g ref="char:EOLhyphen"/>ty reſtrained in <hi>Aragon</hi> by <hi>Juſtitia Aragonica;</hi> in <hi>Biſca</hi> and other pla<g ref="char:EOLhyphen"/>ces, by particular reſervations; and his <hi>Jura Majeſtatis in ſenſu nu<g ref="char:EOLhyphen"/>merato,
+<pb n="5" facs="tcp:137194:3"/> bello judicando, pace ineundo, &amp;c.</hi> limited by the priviledge of the State, as in <hi>Braband,</hi> and elſe-where in his Spaniſh territories, <hi>ex propriis conſtitutionibis &amp; privilegiis.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Precedency of <hi>England</hi> in reſpect of more abſolute Authority Eccleſiaſticall.</head>
+               <p>Her Majeſties power is more abſolute in this, confirmed by anci<g ref="char:EOLhyphen"/>ent cuſtome and priviledge more than any other Chriſtian Prince, for no Legat <hi>de latere</hi> in <hi>England de Jure</hi> allowed but the Archbiſhop of <hi>Canterbury,</hi> if any be admitted by curteſie, hee hath no authority to hold plea in the Realme contrary to the Laws thereof. <hi>Placit</hi> 2. <hi>H.</hi> 4. And before hee was admitted, and entred the Realme, he was to take oath to do nothing dirogatory to the King and his Councell, <hi>placit. an.</hi> 1. <hi>H.</hi> 7. No man might denounce the Popes Excommunication, nor obey his authority, on paine to forfeit all his goods without aſ<g ref="char:EOLhyphen"/>ſent of the King or his Councell, <hi>placit.</hi> 32. &amp; 33. <hi>Edw.</hi> 1.<note place="margin">Malmsb.</note> 
+                  <hi>Dunſt. Rot.</hi>
+               </p>
+               <p>
+                  <hi>Henry</hi> the firſt called a Provinciall Councell; and ſo did <hi>Canutus</hi> and others: No appeale to <hi>Rome</hi> without the Kings licence, <hi>an.</hi> 32. &amp; 34. <hi>Edw.</hi> 1. Inveſture of Biſhops and Church-men in the Kings hand, <hi>ex Matth. Paris, &amp; Hen. Huntington. De gratis Pontific. Dunel. placit,</hi> 32, <hi>Edw.</hi> 1, and in 32. <hi>Edw.</hi> 3. where the reaſon of the Eccleſi<g ref="char:EOLhyphen"/>aſticall authority to ſuſpend or beſtow Church livings, is yeelded, <hi>Quia Angliae unguntur in Capite.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Subſequence of <hi>Spain.</hi>
+               </head>
+               <p>The King of <hi>Spain</hi> can pr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ribe no cuſtome to prohibite the Popes Leg<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te, nor uſeth any authority penall over the Clergie.</p>
+               <p>
+                  <hi>Spaine</hi> can produce no example of any Provinciall Councell by call of their King. <hi>Bodin. lib.</hi> 1. <hi>cap,</hi> 2. towards the end, writeth that the Kings of <hi>Spain, Non ſine magna mercede impetrarunt ſexti pontifi<g ref="char:EOLhyphen"/>cis Romani reſcriptione peregrinis ſacerdocia tribuerentur.</hi>
+               </p>
+               <p>Appeales from the King to <hi>Rome</hi> allowed, ſo the Kings of <hi>Spaine</hi> hath no power Eccleſiaſticall, having diſpoiled themſelves of all, by inthralling their kingdomes to the Church of <hi>Rome.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Precedency of <hi>England</hi> in reſpect of eminency of Royall dignity.</head>
+               <p>The Kings of <hi>England</hi> are appointed as the Kings of <hi>France,</hi> who only have their preheminency before other Kingdomes, declared by miracle in the cure of the <hi>Regis morbus,</hi> which they can effect onely, and that of antiquity; from <hi>Edw.</hi> the <hi>Confeſſor,</hi> who lived <hi>in an.</hi> 1067. who healed many.</p>
+               <pb n="6" facs="tcp:137194:4"/>
+               <p>
+                  <note place="margin">Beda. lib. <hi>2.</hi>
+                  </note>They are ſuperiour Lords of the Kingdoms of <hi>Scotland</hi> and <hi>Man,</hi> and <hi>Vicarii Imperii,</hi> as <hi>Edw.</hi> 3. and <hi>Oſwold</hi> intitled him <hi>Rex Chri<g ref="char:EOLhyphen"/>ſtianiſsimus.</hi> They are <hi>filii adoptionis Eccleſiae;</hi> as the Emperour is <hi>fi<g ref="char:EOLhyphen"/>lius primogenitus,</hi> and the King of <hi>France, filius natu minor.</hi> They are accounted among <hi>Reges ſuperilluſtres,</hi> in this Order, <hi>Imperator Rex Franciae, Rex Angliae &amp; Franciae. Vido Corſet.</hi>
+               </p>
+               <p>
+                  <hi>England</hi> in the generall Councels at <hi>Conſtance</hi> and <hi>Piſa</hi> was made a nation, when all Chriſtianity was divided into foure Nations, <hi>Ita<g ref="char:EOLhyphen"/>licam, Gallicam, Germanicam &amp; Anglicam, ex lib. Sacrarum Ceremo<g ref="char:EOLhyphen"/>niarum Eccleſiae Romanae;</hi> Whereupon a ſeat accordingly was al<g ref="char:EOLhyphen"/>lowed at the three Generall Councels <hi>(viz.) Conſtance, Piſa,</hi> and <hi>Si<g ref="char:EOLhyphen"/>enna,</hi> to the Engliſh Embaſſadour, next to the Emperour on the left hand, to the King of <hi>France</hi> on the right hand, which were ancient themſelves, before the <hi>Spaniards</hi> at <hi>Braſill,</hi> 1431. began to contend for precedency, where it was in the firſt Seſſion ordered, that all Le<g ref="char:EOLhyphen"/>gats ſhould hold ſuch places as they had enjoyed then before, accor<g ref="char:EOLhyphen"/>ding to their worth and antiquity, yet in the common Councell of <hi>Trent,</hi> the precedency of <hi>France</hi> with <hi>Spaine</hi> was made queſtionable.</p>
+               <p>
+                  <hi>Auguſtus de Carallis,</hi> as the ſtrongeſt reaſon to bar the French in<g ref="char:EOLhyphen"/>tereſt, inferred the Queene of <hi>England</hi> from her Anceſtors, both in reſpect of inheritance, conqueſt and gift, <hi>de Jure</hi> Queene of <hi>France;</hi> by which reaſon, when he doth ſhake or overthrow, as he doth con<g ref="char:EOLhyphen"/>ſequently the precedency of <hi>England.</hi>
+               </p>
+               <p>And at a treaty betweene <hi>Hen.</hi> 7. and <hi>Philip</hi> of <hi>Caſtile,</hi> 1506. the Commiſſioners of <hi>England</hi> did ſubſigne before the others, and in the Treaty of Mariage with Queene <hi>Mary, an.</hi> 1533. thoſe of <hi>England</hi> are firſt rehearſed, and at <hi>Burburgh, an.</hi> 1588. they gave it to her Ma<g ref="char:EOLhyphen"/>jeſties Embaſſadors.</p>
+               <p>And in reſpect of the eminency of this Royall throne to the Sea of <hi>Canterbury</hi> was granted by <hi>Urbane</hi> at the Councell of <hi>Claremount, an.</hi> 1096. for ever the ſeat in Generall Councell at the Popes right foot, who at that time uttered theſe words, <hi>Includamus in Orbe noſtro tanquam alterius orbis Pontificem maximum.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Subſequence of <hi>Spain.</hi>
+               </head>
+               <p n="1">1 The Kings of <hi>Caſtile</hi> are never anointed, neither hath the Spa<g ref="char:EOLhyphen"/>niſh Throne that vertue to endue the King therein, and be inveſted with the power to heale the Kings-evill; for into <hi>France</hi> doe yearely
+<pb n="7" facs="tcp:137194:4"/> come multitudes of Spaniards to bee healed thereof.</p>
+               <p n="2">2. No Kingdome held in Fee of him.</p>
+               <p n="3">3. <hi>Spaine</hi> at the ſaid Councell not remembred one of the Sonnes of the Church.</p>
+               <p n="4">4. The King of <hi>Spaine</hi> placed laſt after the King of <hi>England, Interſuperilluſtres</hi> by the ſaid <hi>Corſetus.</hi>
+               </p>
+               <p n="5">5. The Kingdome of <hi>Spaine</hi> then compriſed under <hi>Italica natio,</hi> and no Nation of it ſelfe, as in old time it was called <hi>Iberia minor,</hi> as a member of <hi>Italy, England</hi> being <hi>Britannia major.</hi>
+               </p>
+               <p>At which time the <hi>Spaniard</hi> contented himſelfe with the place next the King of <hi>France.</hi>
+               </p>
+               <p>
+                  <hi>Precedency of</hi> England <hi>before</hi> Spaine, <hi>in reſpect of Nobility of bloud.</hi>
+               </p>
+               <p>Her Majeſty in lineall deſcent is deducted from Chriſtian Princes for 800. yeares by <hi>Ethelbert</hi> a Chriſtian, 596. and the matches of her progenitors have been moſt Royall with <hi>France, Germanie, Spaine, Scotland</hi> and others.</p>
+            </div>
+            <div type="part">
+               <head>Subſequence of <hi>Spaine.</hi>
+               </head>
+               <p>For their antiquitie of Deſcent as Kings of <hi>Spaine,</hi> is chiefly from the Earles of <hi>Caſtilia,</hi> about 500. yeares ſince; for they cannot warrant their deſcent from <hi>Attalaricus</hi> the <hi>Goth,</hi> and as Dukes of <hi>Auſtria</hi> from the Earles of <hi>Habſpurgh,</hi> only about 300 yeares ſince.</p>
+               <p>Their matches anciently for the moſt part were with their ſub<g ref="char:EOLhyphen"/>jects, and of late in their owne bloud.</p>
+               <p>
+                  <hi>Precedencie of</hi> England <hi>in reſpect of antiquity of Government.</hi>
+               </p>
+               <p>Her Majeſtie having reigned now moſt happily about 42. yeares.</p>
+               <p>This we would not at this time have alledged, but that the Spaniſh Embaſſador at <hi>Baſil</hi> objected, in this reſpect, the minority of King <hi>Hen.</hi> 6. Her ſex herein is nothing prejudiciall, when as both divine and humane Lawes do allow it, and accordingly <hi>Spaine, England</hi> and <hi>Hungaria,</hi> inſomuch, that <hi>Mary</hi> the laſt Queene was alwayes ſtiled <hi>Regina Maria Hungariae.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Subſequence of <hi>Spaine.</hi>
+               </head>
+               <p>The King of <hi>Spaine</hi> is yet in the infancie of his kingdome.</p>
+               <p>For the precedency may be <hi>viz.</hi> the antiquity of the Kingdome, when as <hi>Caſtile, Aragon, Navarre,</hi> and <hi>Portugall,</hi> had their firſt Kings about 1025.</p>
+               <p>The ancient receiving of the Chriſtian Faith by <hi>Joſeph</hi> of <hi>Arima<g ref="char:EOLhyphen"/>thea,
+<pb n="8" facs="tcp:137194:5" rendition="simple:additions"/> Simon Zelotus, Ariſtobulus,</hi> yea, by S. <hi>Peter,</hi> and by S. <hi>Paul,</hi> as <hi>Theodoretus</hi> and <hi>Sophrinius</hi> do teſtifie. This kingdome was held of God above, and in no Vaſſallage to the Emperor or Pope, as <hi>Naples, Sicilia, Aragon, Sardinia,</hi> and <hi>Corſica.</hi>
+               </p>
+               <p>Sir <hi>Thomas Moore</hi> denieth that King <hi>John</hi> either did or would make <hi>England</hi> ſubject to the Pope, and that the tribute was not paid (pag. 296.) but the <hi>Peter</hi> pence were paied to the Pope by King <hi>John</hi> by way of almes. The abſolute power of the King of <hi>England</hi> within o<g ref="char:EOLhyphen"/>ther Kingdomes is much reſtrained. <hi>England</hi> is accounted the fourth part of Chriſtendome. For in the Councell of <hi>Conſtance</hi> all Chri<g ref="char:EOLhyphen"/>ſtianity was divided into foure Nations, as aforeſaid, and accor<g ref="char:EOLhyphen"/>dingly gave their voyces. <hi>England</hi> in the opinion of the Pope is pre<g ref="char:EOLhyphen"/>ferred, becauſe it is contained in the Eccleſiaſticall diviſion. Two large Provinces which had their <hi>Legati nati,</hi> when as <hi>France</hi> had ſcantly one. The Emperor is accounted <hi>Major filius Papae.</hi> The King of <hi>France</hi> is <hi>Filius minor.</hi> The King of <hi>England Filius adopti<g ref="char:EOLhyphen"/>nis.</hi> The Archbiſhops of <hi>Canterbury</hi> are accounted by the Pope<g ref="char:punc">▪</g> 
+                  <hi>Tanquam alterius orbis Papae,</hi> and appointed to have places in Gene<g ref="char:EOLhyphen"/>rall Councels at the Popes right foot.</p>
+               <p>The title of <hi>Defenſor fidei,</hi> as honourable and as juſtly beſtowed upon the Kings of <hi>England,</hi> as <hi>Chriſtianiſsimus</hi> upon the <hi>French,</hi> or <hi>Catholicus</hi> upon the <hi>Spaniard.</hi>
+               </p>
+               <p>
+                  <hi>Edw.</hi> the third was created <hi>Imp. vicarius perpetuus Imperii cum jure, rite notiſque in omnes,</hi> 1338.</p>
+               <p>
+                  <hi>Imperii ſubditi,</hi> and the Kings of <hi>England Papae vicarii</hi> by Pope <hi>Nicholas</hi> the ſecond <hi>(viz.) Coporave,</hi> 1065.</p>
+               <p>
+                  <hi>Innocentius</hi> the fourth ſaid, <hi>Vere hortus delitiarum eſt Anglia, vero puteus inexhauſtus ubi multa abundant, &amp;c.</hi> 1246.</p>
+               <p>King <hi>Hen.</hi> 2. elected King of <hi>Ieruſalem</hi> by the Chriſtians, 1185.</p>
+               <p>
+                  <hi>Richard</hi> the firſt conquered the kingdom of <hi>Cyprus,</hi> and gave it to <hi>Guy L<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </hi> whoſe poſterity reigned there untill of late yeares.</p>
+               <p>This kingdome hath heretofore challenged the ſuperioritie over <hi>Scotland,</hi> as aforeſaid, and is now at this time the abſolute Lord of <hi>Ireland,</hi> beſides it ſtill retaineth the title to the Kingdome of <hi>France.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
